@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AttrView">
+        //文本
+       <attr name="attr_text" format="string"/>
+        //大小
+        <attr name="attr_size" format="dimension"/>
+        //监听
+        <attr name="attr_jump" format="string"/>
+
+    </declare-styleable>
+
+</resources>

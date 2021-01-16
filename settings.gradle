@@ -1,0 +1,3 @@
+include ':conmute'
+include ':app'
+rootProject.name = "Coordinj"
